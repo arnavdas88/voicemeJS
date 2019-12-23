@@ -2,10 +2,10 @@
 
 A Speech Recognition and Speech Synthesis JavaScript utility library that exponentially lowers your effort in creating voice responsive applications 
 
-    (*In addition JQuery library needs to be included to your project before including this project.)
+    (* In addition JQuery library needs to be included to your project before including this project.)
 -----
 
-## Speech Recognition
+### Speech Recognition
 ```
     startRecognitionOnClick({
     "multiple_config": [
@@ -27,7 +27,7 @@ A Speech Recognition and Speech Synthesis JavaScript utility library that expone
     });
 ```
 
-## Speech Synthesizer
+### Speech Synthesizer
 ```
     add_speech_synthesis_handler({
         "trigger_event_selector": ".speak-text",   // text will be spoken when the object is clicked

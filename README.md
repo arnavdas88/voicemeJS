@@ -1,5 +1,8 @@
 # voicemeJS
+
 A Speech Recognition and Speech Synthesis JavaScript utility library that exponentially lowers your effort in creating voice responsive applications 
+
+    (*In addition JQuery library needs to be included to your project before including this project.)
 -----
 
 ## Speech Recognition
